@@ -1,7 +1,11 @@
 # Sample Mexican Restaurant Page - Hola Fresca
-This is a sample Mexican Restaurant called Hola Fresca that was made using a template from templatemo.com. It features five different pages: a home page, a menu, a contact form, an order form, and a reviews page. Besides the HTML used to structure the web pages, it features CSS styling, Javascript functionality, and some Bootstrap elements. The project was an assignment that involved using varied colors and imagery to mimic the look and feel of an actual restaurant's website.
+This is a sample Mexican Restaurant called Hola Fresca that was made using a template from templatemo.com. It features five different pages: a home page, a menu, an order form, a reviews page, and a contact form. Besides the HTML used to structure the web pages, it features CSS styling, Javascript functionality, and some Bootstrap elements. The project was an assignment that involved using varied colors and imagery to mimic the look and feel of an actual restaurant's website.
 
 All pages utilize Bootstrap icons for the social media links in the header and footer sections and feature a contact section ahead of the footer. 
+
+The navbar at the top navigates to the different sections on the home page and the "Order" button takes users to the order page.
+
+The "Contact Us" button in the footer will link to the contact page. The footer also has a mailto link to the made-up email of holafresca@gmail.com and a tel link to the made-up number of the restaurant. The rest of the links in the footer will just link to the current page; this is the same with any links in the main content sections of any of the pages.
 
 ## Home Page 
 The main page of the website provides an overview of the restaurant. It is split into 7 sections: 
@@ -15,4 +19,22 @@ The main page of the website provides an overview of the restaurant. It is split
 
 The image slider uses JavaScript to automatically cycle through the images on a timer and also has buttons that fade in when moused over to manually cycle the images. The welcome section has images that shrink and are highlighted in red when moused over due to CSS. The owner blurb also features similar Bootstrap icons as the footer/header; they change to red and black when moused over. The menu previews also change colors on their links to the menu page. The hiring form has a button that allows users to upload files from their computer and has a submit button at the bottom that changes colors as well. The reviews section has a cycle that rotates between the various reviews and pops out the reviewer when their review shows; the reviewers are faded out otherwise. 
 
+## Menu Page 
+The main page includes a banner at the top and showcases the 5 items on the menu: 
+  * Tamales 
+  * Tacos 
+  * Burritos 
+  * Quesadillas 
+  * Bowls
+  
+This page features CSS hovering styles similar to the home page and retains the same contact section, header, and footer.
+
+## Order Page 
+The order page mainly features a form that allows the users to place a mock order to the restaurant. Users are prompted to choose between a single item or a meal combo. Afterwards, they may choose between the five items on the menu and select the amount that they would like to order. Finally, there is a section to choose payment method and submit the order. Otherwise, this page retains the same features as the previous pages.
+
+## Reviews Page
+The review page includes a banner at the top to announce the page like the menu page. It has a headline to attract user attention towards the reviews. Each review has a picture of the reviewer, the name of the reviewer, the review itself, and like and reply buttons. The like and reply buttons change color when hovered. Beneath the reviews, there is a prompt for a user to write their own review in a textfield. The button labeled "POST REVIEW" is there just to complete the look. 
+
+## Contact Page 
+The contact page has a contact form that has fields for first name, last name, email, and a place for users to submit their issue/concern. As with all the other pages, the "Send Message" button is there to complete the look of the form and for nothing else.
   
