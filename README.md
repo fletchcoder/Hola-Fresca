@@ -1,2 +1,2 @@
 # Sample Restaurant Page
-## This is a sample Mexican Restaurant using a template from templatemo.com.
+This is a sample Mexican Restaurant using a template from templatemo.com. It features five different pages: a home page, a menu, a contact form, an order form, and a reviews page. Besides the HTML used to structure the web pages, it features CSS styling, Javascript functionality, and some Bootstrap elements. The project was an assignment that involved using varied colors and imagery to mimic the look and feel of an actual restaurant's website.
