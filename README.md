@@ -4,7 +4,7 @@ This is a sample Mexican Restaurant called Hola Fresca that was made using a tem
 ### All pages utilize Bootstrap icons for the social media links in the header and footer sections as well as a contact section. 
 
 ## Home Page 
-The main page of the website provides an overview of the various pages. It is split into 7 sections: 
+The main page of the website provides an overview of the restaurant. It is split into 7 sections: 
   * An image slider featuring various images of the location and food items
   * A welcome section that provides additional links to the other pages with icons
   * A background of the restaurant with information on the owner and Hola Fresca's mission
