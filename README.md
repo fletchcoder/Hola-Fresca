@@ -1,4 +1,4 @@
-# Sample Mexican Restaurant Page - Hola Fresca
+# Sample Restaurant Page - Hola Fresca
 This is a sample Mexican Restaurant called Hola Fresca that was made using a template from templatemo.com. It features five different pages: a home page, a menu, an order form, a reviews page, and a contact form. The project was an assignment that involved using varied colors and imagery to mimic the look and feel of an actual restaurant's website.
 
 All pages utilize Bootstrap icons for the social media links in the header and footer sections and feature a contact section ahead of the footer. 
